@@ -1,0 +1,22 @@
+create a university database to manage tasks between teachers and students, where teachers data include (TName,TSalary,TGender, TBirthdate,TAddress , TAge)
+and students data (StdName,StdGender,StdBirthdate,StdAddress , StdAge),
+every Entity have a unique id 
+=====================
+using T-sql :
+============
+- create database for this scenario  
+- create tables for each Entity
+- insert 6 Rows for each Entity 
+- update student name at id 1 to ' StdName '
+- update Teacher name at id 5 to ' TechName'
+- Delete Rocord number 6 at each Entity (Student and Teacher)
+- Select All From Teacher 
+- Select StdName,StdGender From Student
+
+
+• How To Backup Your Database
+• How To Restore Database
+• How To Generate Database Script (For Spesific Tables , For All Tables , For Data)
+• How To Create Schema and for what ?
+• How To Create Class Diagram and for what ?
+
