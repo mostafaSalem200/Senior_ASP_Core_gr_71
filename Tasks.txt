@@ -1,0 +1,16 @@
+http://www.databasedev.co.uk/data_models.html
+
+Task Notes :
+=================
+- Create Schema 
+- Create Database
+- Read Your Scenario
+  - Entities
+  - Attributes
+  - Relations
+  - Draw ERD Diagram
+- Test Your Scenario (T-sql "Insert - Select")
+- Create Class Diagram
+- Generate Script For Database
+- Generate Script For Data Only
+- Create Backup To Your Database
