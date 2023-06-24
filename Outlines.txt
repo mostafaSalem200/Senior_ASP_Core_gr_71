@@ -1,0 +1,27 @@
+• Get Start With Visual Studio 2022
+• Introduction to Programming
+• Procedure Programming and Structured Programming
+• What Is Function , Class , Namespace and Assemply
+• What Is OOP
+• What is SOLID Principles
+• What is Design Pattern (Creational Patterns , Structured Patterns , Behavior Patterns)
+• Overview .Net Framework
+•.Net Core Framework Vs C#
+
+• Overview on Console application
+• Read/Write Line In C# 
+• Comment In C#
+• Regions
+• Snippets
+
+• C# Data type (Primitive and non-primitive)
+• Value Type , Reference Type
+• What is stack and Heap
+•.NET Data type 
+• Object , var and dynamic
+• Signed & unSigned
+
+• variables , Constant and readOnly varibale
+• Naming of Varibales
+
+• Casting (Implicit& Explicit)
